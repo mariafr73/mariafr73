@@ -2,7 +2,7 @@
 
 - Estudante de BTI na Universidade Federal Rural do Semi-Árido (UFERSA) - Campus Pau dos Ferros.
 
-![Maria Francisca GitHub](https://github-readme-stats.vercel.app/api?username=mariafr73&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=mariafr73&show_icons=true&theme=radical&cache_seconds=3600)
 ![Linguagens Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=mariafr73&layout=compact&show_icons=true&theme=radical&cache_seconds=3600)
 
 ## 
