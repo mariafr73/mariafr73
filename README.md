@@ -1,30 +1,73 @@
-## 🤗 Oi, eu sou Maria Francisca!
+<h1 align="center">🤗 Oi, eu sou Maria Francisca!</h1>
 
-- Estudante de BTI na Universidade Federal Rural do Semi-Árido (UFERSA) - Campus Pau dos Ferros.
+<p align="center">
+🎓 Estudante de BTI na Universidade Federal Rural do Semi-Árido (UFERSA) - Campus Pau dos Ferros.
+</p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=mariafr73&show_icons=true&theme=radical&cache_seconds=3600)
-![Linguagens Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=mariafr73&layout=compact&show_icons=true&theme=radical&cache_seconds=3600)
+---
 
-## 
-## 📫 Como entrar em contato comigo:
+<div align="center">
 
-[![Gamil](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariafranciscaflor73@hotmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maria_francisca73/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@mariafrancisc/)
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mariafr73&theme=radical"/>
 
-## Linguagens de Programação
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mariafr73&theme=radical"/>
 
-![C](https://img.icons8.com/?size=100&id=40670&format=png&color=000000)
-![JAVA](https://img.icons8.com/?size=100&id=13679&format=png&color=000000)
+</div>
 
-## Linguagem de Marcação e Estilo
+---
 
-![HTML](https://img.icons8.com/?size=100&id=20909&format=png&color=000000)
-![CSS](https://img.icons8.com/?size=100&id=21278&format=png&color=000000)
+## 📫 Como entrar em contato comigo
 
-## Ferramentas
-![Visual Studio Code](https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000)
-![Git](https://img.icons8.com/?size=100&id=20906&format=png&color=000000)
+<p align="left">
 
-## 
-<img src="https://i.pinimg.com/originals/16/69/e5/1669e57761ccc67fa5e31a09a54764d0.gif" alt="GIF" width="500">
+<a href="mailto:mariafranciscaflor73@hotmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/maria_francisca73/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 💻 Tecnologias
+
+<p align="left">
+
+<img src="https://img.icons8.com/color/48/javascript.png"/>
+<img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
+<img src="https://img.icons8.com/color/48/c-programming.png"/>
+
+</p>
+
+---
+
+## 🎨 Linguagens de Marcação e Estilo
+
+<p align="left">
+
+<img src="https://img.icons8.com/color/48/html-5--v1.png"/>
+
+<img src="https://img.icons8.com/color/48/css3.png"/>
+
+</p>
+
+---
+
+## 🛠 Ferramentas
+
+<p align="left">
+
+<img src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
+
+<img src="https://img.icons8.com/color/48/git.png"/>
+
+</p>
+
+---
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/16/69/e5/1669e57761ccc67fa5e31a09a54764d0.gif" width="500"/>
+</p>
