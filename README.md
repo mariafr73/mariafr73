@@ -71,3 +71,10 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/16/69/e5/1669e57761ccc67fa5e31a09a54764d0.gif" width="500"/>
 </p>
+
+
+---
+
+## 🐍 Minhas contribuições
+
+![snake dark](https://raw.githubusercontent.com/mariafr73/mariafr73/output/github-contribution-grid-snake-dark.svg)
