@@ -2,12 +2,6 @@
   <img width="100%" src="./assets/banner.svg" alt="Banner de Maria Francisca"/>
 </p>
 
-<h1 align="center">🤗 Oi, eu sou Maria Francisca!</h1>
-
-<p align="center">
-  🎓 Estudante de BTI na Universidade Federal Rural do Semi-Árido (UFERSA) — Campus Pau dos Ferros.
-</p>
-
 ---
 
 <div align="center">
