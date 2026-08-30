@@ -39,6 +39,9 @@
 <img src="https://img.icons8.com/color/48/javascript.png"/>
 <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
 <img src="https://img.icons8.com/color/48/c-programming.png"/>
+<img width="46" height="46" alt="image" src="https://github.com/user-attachments/assets/4ab650b1-fbf0-49f7-b6e5-6298c228690b" />
+<img width="46" height="46" alt="image" src="https://github.com/user-attachments/assets/35d65cba-3ece-4827-bc1e-231d1ea2f9c3" />
+<img width="46" height="46" alt="image" src="https://github.com/user-attachments/assets/a21c7cf5-d7c7-47b4-9595-5cdc452f8a43" />
 
 </p>
 
