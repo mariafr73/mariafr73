@@ -1,83 +1,72 @@
+<p align="center">
+  <img width="100%" src="./assets/banner.svg" alt="Banner de Maria Francisca"/>
+</p>
+
 <h1 align="center">🤗 Oi, eu sou Maria Francisca!</h1>
 
 <p align="center">
-🎓 Estudante de BTI na Universidade Federal Rural do Semi-Árido (UFERSA) - Campus Pau dos Ferros.
+  🎓 Estudante de BTI na Universidade Federal Rural do Semi-Árido (UFERSA) — Campus Pau dos Ferros.
 </p>
 
 ---
 
 <div align="center">
-
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mariafr73&theme=radical"/>
-
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mariafr73&theme=radical"/>
-
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mariafr73&amp;theme=radical" alt="Estatísticas do GitHub de Maria Francisca"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mariafr73&amp;theme=radical" alt="Linguagens mais utilizadas por Maria Francisca"/>
 </div>
 
 ---
 
 ## 📫 Como entrar em contato comigo
 
-<p align="left">
-
-<a href="mailto:mariafranciscaflor73@hotmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/maria_francisca73/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
+<p>
+  <a href="mailto:mariafranciscaflor73@hotmail.com">
+    <img src="https://img.shields.io/badge/Gmail-28304D?style=for-the-badge&amp;logo=microsoftoutlook&amp;logoColor=F1B85B" alt="Gmail"/>
+  </a>
+  <a href="https://www.instagram.com/maria_francisca73/">
+    <img src="https://img.shields.io/badge/Instagram-7D3658?style=for-the-badge&amp;logo=instagram&amp;logoColor=FFD58A" alt="Instagram"/>
+  </a>
 </p>
 
 ---
 
 ## 💻 Tecnologias
 
-<p align="left">
-
-<img src="https://img.icons8.com/color/48/javascript.png"/>
-<img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
-<img src="https://img.icons8.com/color/48/c-programming.png"/>
-<img width="46" height="46" alt="image" src="https://github.com/user-attachments/assets/4ab650b1-fbf0-49f7-b6e5-6298c228690b" />
-<img width="46" height="46" alt="image" src="https://github.com/user-attachments/assets/35d65cba-3ece-4827-bc1e-231d1ea2f9c3" />
-<img width="46" height="46" alt="image" src="https://github.com/user-attachments/assets/a21c7cf5-d7c7-47b4-9595-5cdc452f8a43" />
-
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-181C31?style=for-the-badge&amp;logo=javascript&amp;logoColor=F1B85B" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Java-181C31?style=for-the-badge&amp;logo=openjdk&amp;logoColor=E98AA3" alt="Java"/>
+  <img src="https://img.shields.io/badge/C-181C31?style=for-the-badge&amp;logo=c&amp;logoColor=8EA7FF" alt="C"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-181C31?style=for-the-badge&amp;logo=postgresql&amp;logoColor=8EA7FF" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/GitHub-181C31?style=for-the-badge&amp;logo=github&amp;logoColor=E98AA3" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Figma-181C31?style=for-the-badge&amp;logo=figma&amp;logoColor=F1B85B" alt="Figma"/>
 </p>
 
 ---
 
 ## 🎨 Linguagens de Marcação e Estilo
 
-<p align="left">
-
-<img src="https://img.icons8.com/color/48/html-5--v1.png"/>
-
-<img src="https://img.icons8.com/color/48/css3.png"/>
-
+<p>
+  <img src="https://img.shields.io/badge/HTML5-181C31?style=for-the-badge&amp;logo=html5&amp;logoColor=E98AA3" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-181C31?style=for-the-badge&amp;logo=css&amp;logoColor=8EA7FF" alt="CSS3"/>
 </p>
 
 ---
 
 ## 🛠 Ferramentas
 
-<p align="left">
-
-<img src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
-
-<img src="https://img.icons8.com/color/48/git.png"/>
-
+<p>
+  <img src="https://img.shields.io/badge/VS_Code-181C31?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=8EA7FF" alt="Visual Studio Code"/>
+  <img src="https://img.shields.io/badge/Git-181C31?style=for-the-badge&amp;logo=git&amp;logoColor=E98AA3" alt="Git"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/16/69/e5/1669e57761ccc67fa5e31a09a54764d0.gif" width="500"/>
+  <img width="720" src="./assets/encerramento.svg" alt="Tecnologia sob o céu do sertão"/>
 </p>
-
 
 ---
 
 ## 🐍 Minhas contribuições
 
-![snake dark](https://raw.githubusercontent.com/mariafr73/mariafr73/output/github-contribution-grid-snake-dark.svg)
+![Animação das contribuições de Maria Francisca](https://raw.githubusercontent.com/mariafr73/mariafr73/output/github-contribution-grid-snake-dark.svg)
